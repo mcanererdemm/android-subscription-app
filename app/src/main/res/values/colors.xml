@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#4E4E61</color>">
+    <color name="dark_grey">#1C1C23</color>">
+    <color name="pink">#FF7966</color>">
+
+
+    <!-- Primary Colors -->
+    <color name="mor">#5E00F5</color>
+    <color name="mor500">#7722FF</color>
+    <color name="mor20">#924EFF</color>
+    <color name="mor10">#AD7BFF</color>
+    <color name="mor5">#C9A7FF</color>
+    <color name="mor0">#E4D3FF</color>
+
+    <!-- Secondary Colors (Orange Tone) -->
+    <color name="orangeC">#FF7966</color>
+    <color name="orange50">#FFA699</color>
+    <color name="orange0">#FFD2CC</color>
+
+    <!-- Secondary Colors (Green Tone) -->
+    <color name="blueG">#00FAD9</color>
+    <color name="blueG50">#7DFFEE</color>
+
+    <!-- Gray Shades -->
+    <color name="grayC">#0E0E12</color>
+    <color name="gray80">#1C1C23</color>
+    <color name="gray70">#353542</color>
+    <color name="gray60">#4E4E61</color>
+    <color name="gray50">#666680</color>
+    <color name="gray40">#83839C</color>
+    <color name="gray30">#A2A2B5</color>
+    <color name="gray20">#C1C1CD</color>
+    <color name="gray10">#E0E0E6</color>
+
+    <!-- Text Colors -->
+    <color name="primaryText">#FFFFFF</color>
+    <color name="secondaryText">#4E4E61</color>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:layout_marginStart="48dp"
+    android:layout_marginEnd="48dp"
+    android:background="@color/grey"
+    android:gravity="start"
+    android:orientation="vertical"
+    android:padding="12dp">
+
+    <ImageView
+        android:id="@+id/iv_kareItemView"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_gravity="start"
+        android:scaleType="centerCrop"
+        android:src="@drawable/netflix" />
+
+    <TextView
+        android:id="@+id/tv_name_kareItemView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="NetFelix"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/tv_price_kareItemView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="₺54,99"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+</LinearLayout>
